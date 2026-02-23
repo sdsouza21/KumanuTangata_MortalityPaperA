@@ -1,4 +1,5 @@
 # KumanuTangata_Mortality
+This repository contains code files for manuscript titled "Lower all-cause and disease-specific mortality but higher late-life neurodegenerative disease mortality in former first-class male rugby players: a nationwide retrospective cohort study". This is Paper A of two companion papers currently in preparation.
 # Project Abstract
 **Objective:** To examine cause-specific and all-cause mortality among former first-class male rugby players and compare mortality rates to those of the general population.  
 **Design:** Nationwide retrospective cohort study. 
@@ -6,7 +7,7 @@
 **Participants:** A cohort of 12,861 first-class male rugby players active between 1950 and 2000, compared to 2,394,342 males from the general population. General population males were weighted to match players by birth year, overseas-born status, and ethnicity.  
 **Main outcome measures:** All-cause mortality and cause-specific mortality (including cancer, cardiovascular, respiratory, metabolic, and neurodegenerative diseases) from mortality records between 1988 to 2020. Premature mortality burden was reported using years of life lost.   
 **Results:** By the end of the study period, 3,378 (26.3%) former players and 656,139 (27.4%) general population males had died. Cancer and cardiovascular diseases were the leading causes of death, together accounting for 2,280 (67.5%) of player deaths and 427,419 (65.1%) of general population deaths. Former players had lower all-cause (hazard ratio 0.93, 95% confidence interval 0.90 to 0.96), respiratory (0.59, 0.51 to 0.68) and metabolic (0.68, 0.55 to 0.83) mortality, but higher neurodegenerative disease mortality (1.31, 1.15 to 1.50). Age-stratified analyses showed lower all-cause mortality in players until age 80, after which rates exceeded those of the general population; elevated neurodegenerative disease mortality was only observed after age 80. Mean age at death was 1.7 (1.4 to 1.9) years higher in players, and they experienced 0.7 (0.5 to 0.8) fewer years of premature mortality than general population males, despite a small degree of excess mortality due to neurodegenerative diseases (0.04, 0.02 to 0.06 years).  
-**Conclusions:** Mortality patterns among former rugby players were generally similar to the New Zealand
+**Conclusions:** Overall mortality among former rugby players was slightly lower than in comparable New Zealand males, but the percentage of deaths due to each cause differed, with fewer respiratory and metabolic deaths and more late life neurodegenerative deaths among the players. 
 # Statistical analyses
 Data management was performed using SAS Enterprise Guide (version 8.3), statistical modelling in Stata (version 16.1), and descriptive statistics in Microsoft Excel 2024. Data visualisations were generated using Python 3.12 with the Pandas, Numpy, and Matplotlib libraries.  
 
@@ -49,7 +50,7 @@ We thank Statistics New Zealand and their staff for access to the Integrated Dat
 - Joshua P. McGeown, PhD 
 - Stephanie D’Souza, PhD
 
-**Manuscript authors**
+**Code authors**
 - Kenneth L. Quarrie, PhD 
 - Chao Li, PhD 
 - Barry J. Milne, PhD
