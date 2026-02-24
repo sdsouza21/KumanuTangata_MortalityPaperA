@@ -1,5 +1,5 @@
 # KumanuTangata_Mortality
-This repository contains code files for manuscript titled "Lower all-cause and disease-specific mortality but higher late-life neurodegenerative disease mortality in former first-class male rugby players: a nationwide retrospective cohort study". This is Paper A of two companion papers currently in preparation.
+This repository contains code files for manuscript titled "Lower all-cause and disease-specific mortality but higher late-life neurodegenerative disease mortality in former first-class male rugby players: a nationwide retrospective cohort study". This is Paper A of two companion papers currently in preparation. The repository for Paper B is available athttps://github.com/sdsouza21/KumanuTangata_MortalityPaperB.
 # Project Abstract
 **Objective:** To examine cause-specific and all-cause mortality among former first-class male rugby players and compare mortality rates to those of the general population.  
 **Design:** Nationwide retrospective cohort study. 
