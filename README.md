@@ -18,13 +18,13 @@ Premature mortality burden was reported using years of life lost (YLL) per 1000 
 We used Cox proportional hazards models to analyse differences in death rates by cause. For cause-specific mortality analyses, individuals were tracked from age 30, with right-censoring at emigration or end of follow-up; deaths from causes other than that being analysed were also censored. The proportional hazards assumption was tested using Schoenfeld residuals. To account for time-dependent effects, we conducted stratified analyses by 10-year age bands (30–39, 40–49, 50–59, 60–69, 70–79, 80–89, 90+), with pre- and post-period events censore. Kaplan-Meier survival curves were also produced. To address competing risks, where death from one cause precludes death from another, we performed sensitivity analyses using Fine-Gray subdistribution hazard models.
 # Table of contents
 1. Mortality of former first-class rugby players_BMJ_codefile.txt
-  - SAS and Stata code for data management and all analyses (including supplemental material)
+   - SAS and Stata code for data management and all analyses (including supplemental material)
   
 2. Mortality paper Figure 1.py
-  - Python code for producing Figure 1
+   - Python code for producing Figure 1
     
 3. Mortality paper A Figure 2 BMJ compliant.py
-  - Python code for producing Figure 2
+   - Python code for producing Figure 2
   
 4. Mortality paper A Figure 3 BMJ compliant.py
    - Python code for producing Figure 3
