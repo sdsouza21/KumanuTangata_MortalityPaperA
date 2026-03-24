@@ -1,5 +1,6 @@
-# KumanuTangata_Mortality
-This repository contains code files for manuscript titled "Lower all-cause and disease-specific mortality but higher late-life neurodegenerative disease mortality in former first-class male rugby players: a nationwide retrospective cohort study". This is Paper A of two companion papers currently in preparation. The repository for Paper B is available at https://github.com/sdsouza21/KumanuTangata_MortalityPaperB.
+<img width="468" height="33" alt="image" src="https://github.com/user-attachments/assets/f43836a5-37cd-464d-bee8-89f247b344e2" /># KumanuTangata_Mortality
+This repository contains code files for manuscript titled "Lower all-cause and disease-specific mortality but higher late-life neurodegenerative disease mortality in former first-class male rugby players: a nationwide retrospective cohort study". This is Paper A of two companion papers currently in preparation, and is part of the Kumanu Tāngata project (Stats NZ IDI project code MAA2016-21). The repository for Paper B is available at https://github.com/sdsouza21/KumanuTangata_MortalityPaperB.
+
 # Project Abstract
 **Objective:** To examine cause-specific and all-cause mortality among former first-class male rugby players and compare mortality rates to those of the general population.  
 **Design:** Nationwide retrospective cohort study. 
@@ -57,4 +58,4 @@ We thank Statistics New Zealand and their staff for access to the Integrated Dat
 - Stephanie D’Souza, PhD
 
 # Stats NZ Disclaimer
-These results are not official statistics. They have been created for research purposes from the Integrated Data Infrastructure (IDI) which is carefully managed by Statistics New Zealand. For more information about the IDI please visit https://www.stats.govt.nz/integrated-data/.  
+Results produced are not official statistics. They have been created for research purposes from the Integrated Data Infrastructure (IDI) which is carefully managed by Statistics New Zealand. For more information about the IDI please visit https://www.stats.govt.nz/integrated-data/.  
