@@ -1,4 +1,4 @@
-<img width="468" height="33" alt="image" src="https://github.com/user-attachments/assets/f43836a5-37cd-464d-bee8-89f247b344e2" /># KumanuTangata_Mortality
+# KumanuTangata_Mortality
 This repository contains code files for manuscript titled "Lower all-cause and disease-specific mortality but higher late-life neurodegenerative disease mortality in former first-class male rugby players: a nationwide retrospective cohort study". This is Paper A of two companion papers currently in preparation, and is part of the Kumanu Tāngata project (Stats NZ IDI project code MAA2016-21). The repository for Paper B is available at https://github.com/sdsouza21/KumanuTangata_MortalityPaperB.
 
 # Project Abstract
